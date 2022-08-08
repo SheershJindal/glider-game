@@ -1,6 +1,6 @@
 # Glider
 
-## Features
+## Game Features
   - Pass rings while collecting coins.
   - Buy trails and planes from the store using coins.
   - Choose from 5 different levels to play.
